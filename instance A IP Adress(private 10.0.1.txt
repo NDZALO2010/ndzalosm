@@ -1,0 +1,21 @@
+instance A IP Adress(private: 10.0.10.242
+
+instance E IP Adress(public: 52.41.55.254 private: 10.0.10.130
+
+
+aws_access_key_id=ASIAVBNYRO6OOYSECI7N
+aws_secret_access_key=2LKq/xd5B3JYRyQ06mQKmllpQ4d09beUqZoXVgMe
+
+
+aws ec2 describe-instance-attribute --instance-id i-058786b6b8afdeac8 --attribute instanceType
+
+
+832b5da9-a812-4e8f-988c-4d33655ce79c
+
+
+
+aws s3api create-bucket --bucket nmathebula031 --region us-west-2 --create-bucket-configuration LocationConstraint=us-west-2
+
+"L:\Software"
+
+"C:\Users\ndzal\Documents\VSCode Projects\assignment"
